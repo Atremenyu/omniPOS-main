@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+omnirest_data
+google_credentials.json
+*.db
+*.sqlite
